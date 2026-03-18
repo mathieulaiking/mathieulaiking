@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mathieulaiking
-- 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning about Agentic frameworks (LlamaIndex, LangGraph, smolagents) , reasoning language models, model evaluation (benchmarks : HLE, GAIA, BrowseComp, DABStep, PaperBench).
-- 💞️ I’m looking to collaborate on lots of things that I like 
+- 👋 Hi, I’m @mathieulaiking, located in Paris
+- 👀 I’m interested in Natural Language Processing and its application in specialized domains (health, biology)
+- 🌱 I’m currently working on information extraction in low-resource context using LLMs in the food safety domain.
+- 💞️ I’m looking to collaborate on multiple subjects if you're interested feel free to send a message (even if it does not match exactly my topic always happy to chat with new people !)
 - 📫 How to reach me laiking.mathieu@gmail.com
 
 <!---
